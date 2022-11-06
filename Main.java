@@ -7,5 +7,8 @@ public class Main {
         String surname = "Botvin";
         System.out.println(name + " " + surname);
         
+        int age = 29;
+        ystem.out.println(age);
+
     }
 }
